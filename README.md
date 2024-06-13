@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/38/93/15/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg)
 <h1 align="center">Hi There!👋, I'm Yusuf Yalsiz</h1>
-<h3 align="center">A curious Data Analyst!</h3>
+<h3 align="center"><em>A curious Data Analyst!</em></h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/028/148/762/non_2x/young-man-animation-style-illustration-free-photo.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-yalsiz&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-yalsiz" /> </p>
 
