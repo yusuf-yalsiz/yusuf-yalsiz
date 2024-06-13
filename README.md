@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/38/93/15/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg)
+![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2021/08/what-does-a-data-analyst-do-2022-career-guide.png)
 <h1 align="center">Hi There!👋, I'm Yusuf Yalsiz</h1>
 <h3 align="center"><em>A curious Data Analyst!</em></h3>
 <img align="right" alt="Coding" width="400" src="https://businessofanimation.com/wp-content/uploads/2022/07/data-animation.gif">
